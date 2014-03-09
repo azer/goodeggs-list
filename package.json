@@ -1,0 +1,33 @@
+{
+  "name": "goodeggs-list",
+  "version": "0.0.0",
+  "description": "List GoodEggs",
+  "main": "index.js",
+  "scripts": {
+    "test": "prova"
+  },
+  "dependencies": {
+    "hyperquest": "0.2.0",
+    "new-format": "0.0.1",
+    "concat-stream": "~1.4.3",
+    "resumer": "0.0.0",
+    "JSONStream": "~0.8.0"
+  },
+  "devDependencies": {
+    "prova": "*"
+  },
+  "keywords": [
+    "goodeggs",
+    "farm",
+    "fresh",
+    "farming",
+    "vegetables",
+    "fruits"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/goodeggs-list.git",
+    "type": "git"
+  },
+  "author": "Azer Koçulu <azer@kodfabrik.com>",
+  "license": "BSD"
+}
